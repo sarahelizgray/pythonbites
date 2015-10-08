@@ -14,7 +14,7 @@
 # vpn-jen
 # vpn-clarence
 
-# goal: revoke_vpn for vpn-jen
+# goal: return a list of vpn usernames for those no longer employed ex: [vpn-jen]
 
 no_longer_employed = ['bob@work.com', 'suzie@work.com', 'jen@work.com']
 vpn = ['vpn-tim', 'vpn-jen', 'vpn-clarence']
