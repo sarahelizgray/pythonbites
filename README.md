@@ -7,10 +7,10 @@ Welcome! This repo assumes that you know the following:
 * booleans
 * print statements
 * pass by value
-* conditional: if, elif, else
+* conditionals: if, elif, else
 * loops: if and while
-* variable assignment
-* define a function
+* how to assign a variable
+* how to define a function
 * math operations: *, /, %
 * data structures: lists, tuples, and dictionaries
 * string manipulation: slice, index, split, concatenation
