@@ -1,6 +1,11 @@
 # PythonBites
 small python project for programming n00bs
 
+##Goals
+* complete small scripting challenges
+* see multiple solutions to the same problem (get better at reading code)
+* see real world applications for your programming skills
+
 ## For N00bs
 Welcome! This repo assumes that you know the following:
 * strings
